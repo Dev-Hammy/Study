@@ -1,4 +1,4 @@
-package by_Type_DynmaicProgramming.problem;
+package by_Type_DynmaicProgramming;
 
 /*
 상근이는 지금 사탕가게에 설탕을 정확하게 N킬로그램을 배달해야 한다.
